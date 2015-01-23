@@ -1,4 +1,4 @@
-Is Retina
+Retina Check
 =============
 JavaScript module to check if the device is retina or not.
 
