@@ -2,6 +2,9 @@ Retina Check
 =============
 JavaScript module to check if the device is retina or not.
 
+## Install
+    npm install retina-check --save-dev
+
 ## Release History
 * 1.0.0: Initial release.
  
